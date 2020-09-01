@@ -1,2 +1,18 @@
 # TDS_SMLxuneo
 Tools trao đổi sub
+
+### Mã check phần mềm
+
+MD5 Checksum: F20E83BAC44D8D6B5AA8CBE3D2AE6BEE
+
+SHA-1 Checksum: 832D99203B80D1CADBE7F667A75C368A7844D315
+
+SHA-256 Checksum: 853F98DF5F46BC81FBFD21FA4A8EC79F0AB09C0A77F9A4BD0CB284CF1E0CA7FB
+
+### acc_tds.txt
+
+TK_TDS|MK_TDS
+
+### list_fb_1.txt
+
+nhập cookie lấy từ fb
