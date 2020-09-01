@@ -3,6 +3,8 @@ Tools trao đổi sub
 
 ### Mã check phần mềm
 
+NameApp: TDS_SMLxuneo.exe
+
 MD5 Checksum: F20E83BAC44D8D6B5AA8CBE3D2AE6BEE
 
 SHA-1 Checksum: 832D99203B80D1CADBE7F667A75C368A7844D315
